@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 OpenCV Operations - Complete Learning Journey
 
 A comprehensive hands-on learning project covering all fundamental and advanced OpenCV operations using Python. This repository documents a complete progression from basic image loading to real-time face detection and recognition.
@@ -329,3 +330,6 @@ After completing all 8 phases, explore:
 *Last Updated: December 2025*  
 *OpenCV Version: 4.x+*  
 *Python Version: 3.7+*
+=======
+# OpenCV-Operations
+>>>>>>> e56eec06af56bae1edf01eb53d9d86b36e7f948d
